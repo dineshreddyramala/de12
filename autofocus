@@ -1,7 +1,6 @@
 i<!doctype html>
 <html>
 <body bgcolor="blue">
-from 
 <form>
 <div style="position: absolute;top:10px;left:5px;text-aligin:justify">
 username<input type="text" name="user-name"autofocus="autofocus"/><br/>
