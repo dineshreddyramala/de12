@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<body bgcolor="red">
+<form>
+<div style="position: absolute;top:50px;left:100px;text-aligin:justify">
+username<input type="text" name="user-name"autofocus="autofocus"/><br/>
+<div style="position: absolute;top:50px;left:100px;text-aligin:justify">
+fathername<input type="text" name="user-name"autofocus="autofocus"/><br/>
+<div style="position: absolute;top:50px;left:100px">
+<input type="submit"/>
+</div>
+</from>
+</body>
+</html>
+
